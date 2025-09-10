@@ -1,3 +1,5 @@
+//GitHub URL: https://github.com/OlakayL/Comp-Org-Arch-A1
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
